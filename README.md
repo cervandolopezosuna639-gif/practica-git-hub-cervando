@@ -8,5 +8,4 @@ Este proyecto simula una tienda en lina
 -Css
 -javascrip
 
-##Autor
 **cervando lopez osuna**
