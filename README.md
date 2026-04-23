@@ -4,9 +4,9 @@
 Este proyecto simula una tienda en lina
 
 ## tecnologias
--Html
--Css
--javascrip
+- Html
+- Css
+- javascrip
 
 ## Autor
 **cervando lopez osuna**
